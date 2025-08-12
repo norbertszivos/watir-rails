@@ -4,3 +4,4 @@ gemspec
 
 gem "simplecov", require: false
 gem "simplecov-lcov", require: false
+gem "webrick"
